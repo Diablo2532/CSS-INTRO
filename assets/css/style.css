@@ -1,5 +1,16 @@
+/* селектро темп */
 h1 {
     color: blue;
     text-align: center;
     font-size: 64px;
 }
+/* селектро класу  */
+.annotation {
+    font-size: 10px;
+}
+/* селектро ідунтіфікатора */
+
+#subscribe-btn { /*kebab-case*/
+    color: red;
+}
+››
